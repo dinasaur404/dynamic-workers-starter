@@ -1,8 +1,6 @@
 # Dynamic Workers Starter
 
-Starter example for [Dynamic Worker Loaders](https://developers.cloudflare.com/workers/runtime-apis/bindings/worker-loader/) on Cloudflare Workers.
-
-Deploys a Worker that can load and execute dynamic Workers at runtime — sandboxed, fast, and disposable.
+Deploys a Worker that can load and execute Dynamic Workers at runtime — sandboxed, fast, and disposable.
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/dinasaur404/dynamic-workers-starter)
 
