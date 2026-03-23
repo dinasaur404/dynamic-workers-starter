@@ -1,4 +1,4 @@
-# dynamic-workers-starter
+# Dynamic Workers Starter
 
 Starter example for [Dynamic Worker Loaders](https://developers.cloudflare.com/workers/runtime-apis/bindings/worker-loader/) on Cloudflare Workers.
 
