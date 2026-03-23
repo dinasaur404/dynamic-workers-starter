@@ -1,0 +1,6 @@
+name = "dynamic-workers-starter"
+main = "src/index.js"
+compatibility_date = "2026-03-17"
+
+[[worker_loaders]]
+binding = "LOADER"
