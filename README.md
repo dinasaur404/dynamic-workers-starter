@@ -36,8 +36,7 @@ const worker = env.LOADER.load({
 return worker.getEntrypoint().fetch(request);
 ```
 
-- `LOADER.load(code)` — creates a one-off dynamic isolate (no caching, no ID needed)
-- `mainModule` / `modules` — the code that runs inside the isolate
+- `LOADER.load(code)` — creates a one-off dynamic isolate 
 - `globalOutbound: null` — blocks all outbound network access from the dynamic Worker
 
 ## Deploy
